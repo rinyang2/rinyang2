@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinsk1884)](https://solved.ac/jinsk1884/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinyang2&show%20icons=true&theme=default&line%20height=20&count%20private%20=true)
